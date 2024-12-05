@@ -1,6 +1,6 @@
 import { createSlice } from '@reduxjs/toolkit';
-import { Suspense } from 'react';
-import Loader from "../"
+// import { Suspense } from 'react';
+// import Loader from "../"
 
 const initialState = {
   cart: [],
